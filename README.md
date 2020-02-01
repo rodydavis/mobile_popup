@@ -1,3 +1,6 @@
+[![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-yellow.svg)](https://www.buymeacoffee.com/rodydavis)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WSH3GVC49GNNJ)
+
 # mobile_popup
 
 A Flutter plugin to show a PopUp Surface on Tablet / Desktop and for Mobile a Full Screen View. It will animate between them for a smooth experience. Check out the example for a demo.
