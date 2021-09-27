@@ -53,9 +53,9 @@ showMobilePopup(
 
 ## Screenshots
 
-![](https://github.com/AppleEducate/plugins/blob/master/packages/mobile_popup/screenshots/1.png)
-![](https://github.com/AppleEducate/plugins/blob/master/packages/mobile_popup/screenshots/2.png)
-![](https://github.com/AppleEducate/plugins/blob/master/packages/mobile_popup/screenshots/3.png)
+![](https://github.com/rodydavis/plugins/blob/master/packages/mobile_popup/screenshots/1.png)
+![](https://github.com/rodydavis/plugins/blob/master/packages/mobile_popup/screenshots/2.png)
+![](https://github.com/rodydavis/plugins/blob/master/packages/mobile_popup/screenshots/3.png)
 
 ## Example
 

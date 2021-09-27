@@ -2,7 +2,7 @@ name: mobile_popup
 description: A Flutter plugin to show a PopUp Surface on Tablet &#x2F; Desktop and for Mobile a Full Screen View.
 version: 1.1.0+1
 author: Rody Davis <rody.davis.jr@gmail.com>
-homepage: https://github.com/AppleEducate/plugins
+homepage: https://github.com/rodydavis/plugins
 
 environment:
   sdk: ">=2.2.2 <3.0.0"
